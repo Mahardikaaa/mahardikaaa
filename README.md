@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-hi there i will intodroduce my self, my name Allana Mahardika, im wev development, I support those of you who need a system for your needs.
+hi there i will intodroduce my self, my name Allana Mahardika, im web development, I support those of you who need a system for your needs.
 
 
 ## 🌐 Socials:
